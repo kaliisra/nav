@@ -107,7 +107,7 @@ export class CreateComponent implements OnInit {
         setTimeout(() => window.location.reload(), 2000)
       })
       .catch(res => {
-        this.notification.error(this.token, res.message as string)
+        this.notification.error('登录失败, 请填写正确Token', res.message as string)
       })
       .finally(() => {
         this.submiting = false
