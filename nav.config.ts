@@ -5,13 +5,13 @@ const c: IConfig = {
   gitRepoUrl: 'https://github.com/kaliisra/nav',
 
   // 网站标题
-  title: '发现导航 - 精选实用导航网站',
+  title: 'RA导航',
 
   // 网站描述
-  description: '发现导航 - 精选实用导航网站',
+  description: 'RA导航',
 
   // 网站关键字
-  keywords: '导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js',
+  keywords: 'RA导航',
 
   // 默认主题: Light | Sim
   theme: 'Light',
