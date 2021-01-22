@@ -68,7 +68,7 @@ const c: IConfig = {
   footerCopyright: '',
 
   // 百度统计
-  baiduStatisticsUrl: 'https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba',
+  baiduStatisticsUrl: 'https://hm.baidu.com/hm.js?930e87151e8441a19a613907f2403846',
 
   // 只支持 Light 主题
   // https://www.nav3.cn/#/light?q=grabient
